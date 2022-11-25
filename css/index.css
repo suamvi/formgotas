@@ -11,7 +11,7 @@ body{
     align-items: center;
     min-height: 100vh;
     /* background: #eff0f4; */
-    background-image: url(../imagen/gotasfoto.jpg);
+    background-image: url(./imagen/gotasfoto.jpg);
     background-repeat: no-repeat;
     background-position: center;
 }
